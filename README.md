@@ -1,2 +1,2 @@
-# python_project_generator_template_repo
+# project_generator_template_repo
  
