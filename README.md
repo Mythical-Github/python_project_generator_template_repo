@@ -1,2 +1,1 @@
-# project_generator_template_repo
- 
+# default_project_name
